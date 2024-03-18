@@ -1,0 +1,7 @@
+
+.TaskStyle {
+    border: 1px solid black;
+    padding: 5px;
+    display: flex;
+    gap: 5px
+}
